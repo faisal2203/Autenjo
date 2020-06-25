@@ -1,5 +1,5 @@
 body{
-    background: #59ff9e; 
+    background: #66BFBF;
     font-family: "Nunito",sans-serif;
 }
 
@@ -12,7 +12,7 @@ body{
     color: #f498b8;
     font-weight: 100;
     font-size: 1.125rem;
-     line-height: 2.3; 
+     line-height: 2.3;
 }
 .content{
     margin-top: 100px;
@@ -40,7 +40,7 @@ color:#EA1C2C ;
 #headingGroup span{
     color:#EA1C2C ;
 }
-    
+
 #headingGroup h1{
     font-weight:100 ;
     font-size: 4rem ;
@@ -56,4 +56,14 @@ color:#EA1C2C ;
     font-size: 3rem ;
 
 }
-
+.img-fluid{
+  width: 20px;
+  height: 200px;
+}
+.d-none_d-lg-inline {
+  width: 50px;
+    height: 30px;
+}
+.container{
+  padding-top: 20px;
+}
